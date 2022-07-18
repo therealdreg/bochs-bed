@@ -4,9 +4,9 @@
 
 ![deflayout](img/deflayout.png)
 
-**WARNING:** its just a POC yet (alpha version). Btw, the code is crap x-). 
+**WARNING:** its just a POC yet (alpha version)
 
-Only works with boch_x64 + 32 bits OS like Linux or Windows
+Btw, the code is crap and only works with boch_x64 + 32 bits OS like Linux or Windows
 
 # patch memory & hexdump
 
@@ -45,4 +45,6 @@ convert address to symbol: instrument hexdump<0xADDR>
 
 # credits
 
-Inspired by GDB-GEF https://github.com/hugsy/gef
+- inspired by GDB-GEF https://github.com/hugsy/gef
+- https://github.com/stlintel/Bochs
+- https://bochs.sourceforge.io/
