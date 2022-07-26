@@ -43,6 +43,11 @@ add layout: instrument layout<asm|stack|regs> Ex: instrument layoutstackasmregs
 convert address to symbol: instrument hexdump<0xADDR>
 ```
 
+# Related
+
+- https://github.com/therealdreg/ida_bochs_windows
+- https://github.com/therealdreg/pdbdump_bochs
+
 # credits
 
 - inspired by GDB-GEF https://github.com/hugsy/gef
